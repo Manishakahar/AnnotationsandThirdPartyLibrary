@@ -1,0 +1,7 @@
+Name,Email,Phone,Country
+Manisha,Man@gmail.com,8425072535,India
+Madhu,acv@122gmail.com,7895412325,India
+Navneet,nav123@gmail.com,9820116456,India
+pooja,abc123@gmail.com,98255256456,India
+
+[{"Name":"Manisha","EmailId":"Man@gmail.com","Phone":8425072535,"Country":"India"},{"Name":"Madhu","EmailId":"acv@122gmail.com","Phone":7895412325,"Country":"India"},{"Name":"Navneet","EmailId":"nav123@gmail.com","Phone":9820116456,"Country":"India"},{"Name":"pooja","EmailId":"abc123@gmail.com","Phone":98255256456,"Country":"India"}]
